@@ -8,6 +8,7 @@ Budget Tracker Dashboard
 Income and Expense Analysis
 Dynamic Donut Chart for Data Visualization
 Calculation of Net Profit and % Savings
+
 📈 Features
 Income & Expense Breakdown: Analyzes various income streams (salary, bonus) and expenses (rent, travel, etc.).
 Automated Calculations: Calculates Net Income, Net Expenses, Net Profit, and Savings Percentage.
