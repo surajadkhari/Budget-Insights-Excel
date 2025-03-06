@@ -23,6 +23,8 @@ It shows the breakdown of costs (like rent, insurance, etc.) and makes it easier
 I found it useful because it visually explains how the total income reduces as we move through different spending stages.
 
 💡 Other Use Case: Funnel charts are also used in business to track processes like sales funnels—showing how many leads become actual customers.
+<img width="577" alt="image" src="https://github.com/user-attachments/assets/a8092920-68d9-4d89-a82f-9073c933fc54" />
+
 
 📊 Waterfall Chart
 
@@ -33,12 +35,16 @@ In my project, I used it to show how different income sources and expenses come 
 This chart helped me clearly see the impact of each income and expense on my total savings.
 
 💡 Other Use Case: Waterfall charts are often used for cash flow analysis to show how revenue and costs impact the final balance over time.
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/07e4344b-8b2f-4bac-971c-d005e999075c" />
+
 
 🍩 Donut Chart
 
 I used a Donut Chart to visualize how much of my total income goes to expenses and how much is left for savings.
 
 It made it easier to compare the share of each category.
+<img width="752" alt="image" src="https://github.com/user-attachments/assets/0a6ddcb7-dfb9-4887-950d-2a29c424bd14" />
+
 
 🚫 Why not a Pie Chart?
 
